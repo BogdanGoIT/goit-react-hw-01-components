@@ -1,0 +1,9 @@
+.description{
+    padding: 20px;
+}
+
+.avatar{
+    width: 35%;
+    border-radius: 50%;
+    background-color: #ccc;
+}
