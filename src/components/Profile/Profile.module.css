@@ -2,3 +2,25 @@
     margin: 0 auto;
     text-align: center;
 }
+
+.description {
+    padding: 20px;
+}
+
+.avatar {
+    width: 35%;
+    border-radius: 50%;
+    background-color: #ccc;
+}
+
+.stats {
+    display: flex;
+    background-color: rgb(245, 240, 240);
+    justify-content: space-around;
+    padding: 20px;
+
+}
+
+.label {
+    display: flex;
+}
