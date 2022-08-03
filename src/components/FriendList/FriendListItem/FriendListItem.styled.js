@@ -15,5 +15,5 @@ export const OnlineStatus = styled.span`
     width: 20px;
     height: 20px;
     border-radius: 50px;
-    background-color: ${p => (p.isOnline ? 'green': 'red')};
+    background-color: ${ p => (p.isOnline ? 'green': 'red') };
 `;
